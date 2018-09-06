@@ -8,4 +8,5 @@ Suppose you want to share or send some data from one component to anther compone
 # Prerequisite
 <pre>Created Project using angular-Cli:
                     <b>to create project use ng new [project_name] </b></pre>
-<b>Note:</b> [project_name] is User defined Name.<br> e.g. ng new demo
+<b>Note:</b> [project_name] is User defined Name.<br> e.g. ng new demo<br>
+Copy the src folder and paste to in your project directory to run this app.
